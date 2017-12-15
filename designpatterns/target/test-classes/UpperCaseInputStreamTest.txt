@@ -1,0 +1,2 @@
+La diferencia principal es que java.util.Date representa "fecha y hora" almacenado hasta los milisegundos. 
+Sin embargo, java.sql.Date sólo almacena el valor de datos que se requiere para el tipo DATE SQL.
